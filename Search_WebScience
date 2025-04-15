@@ -1,5 +1,5 @@
 Here's a search query for Web of Science that aims to cover all the FT 50 journals:
-TS=(
+SO=(
 "Academy of Management Journal" OR
 "Academy of Management Review" OR
 "Administrative Science Quarterly" OR
@@ -32,5 +32,4 @@ TS=(
 "Strategic Entrepreneurship Journal" OR
 "Strategic Management Journal" OR
 "Transportation Science"
-)
-Note: This query uses the Topic (TS) field, which searches title, abstract, author keywords, and KeyWords Plus. You may need to adjust the search field depending on your specific Web of Science search requirements.
+) AND TS =(("artificial intelligence" OR "AI") AND (risk* OR threat* OR danger* OR challenge* OR concern*))) 
