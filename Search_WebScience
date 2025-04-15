@@ -1,0 +1,36 @@
+Here's a search query for Web of Science that aims to cover all the FT 50 journals:
+TS=(
+"Academy of Management Journal" OR
+"Academy of Management Review" OR
+"Administrative Science Quarterly" OR
+"American Economic Review" OR
+"American Journal of Sociology" OR
+"American Sociological Review" OR
+"Annual Review of Psychology" OR
+"Econometrica" OR
+"Economic Journal" OR
+"Journal of Accounting Research" OR
+"Journal of Applied Psychology" OR
+"Journal of Consumer Research" OR
+"Journal of Finance" OR
+"Journal of Financial Economics" OR
+"Journal of International Business Studies" OR
+"Journal of Marketing" OR
+"Journal of Marketing Research" OR
+"Journal of Management" OR
+"Journal of Management Studies" OR
+"Journal of Operations Management" OR
+"Journal of Political Economy" OR
+"Management Science" OR
+"MIS Quarterly" OR
+"Organization Science" OR
+"Organization Studies" OR
+"Organizational Behavior and Human Decision Processes" OR
+"Production and Operations Management" OR
+"Quarterly Journal of Economics" OR
+"Research Policy" OR
+"Strategic Entrepreneurship Journal" OR
+"Strategic Management Journal" OR
+"Transportation Science"
+)
+Note: This query uses the Topic (TS) field, which searches title, abstract, author keywords, and KeyWords Plus. You may need to adjust the search field depending on your specific Web of Science search requirements.
