@@ -32,4 +32,4 @@ SO=(
 "Strategic Entrepreneurship Journal" OR
 "Strategic Management Journal" OR
 "Transportation Science"
-) AND TS =(("artificial intelligence" OR "AI") AND (risk* OR threat* OR danger* OR challenge* OR concern*))) 
+) AND TS =(("artificial intelligence" OR "AI") AND (risk* OR threat* OR danger* OR challenge* OR concern*))
